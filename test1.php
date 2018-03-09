@@ -1,0 +1,7 @@
+<?php
+
+testtesttest();
+
+setCookie();
+
+//

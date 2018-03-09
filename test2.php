@@ -6,4 +6,4 @@ set_cookie();
 
 testtesttest();
 
-//
+// foo
